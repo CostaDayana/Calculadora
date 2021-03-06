@@ -1,2 +1,2 @@
 # Calculadora
-Projeto Calculadora em Javascrip, para aprendizagem da linguagem.
+Projeto Calculadora em Javascript, para aprendizagem da linguagem.
